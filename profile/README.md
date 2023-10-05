@@ -7,7 +7,7 @@ We love to talk all things risk assessment, incident response, ethical hacking, 
 
 ### Meet the Cyber Team
 #### Tom
-Here's a bit of information about Tom, the leader of the Cyber Team.
+Tom, the leader of the cyber team, has over 8 years of experience in risk assessment and consulting.
 
 #### Callum
 Here's a bit about Callum, he can do hackerman stuff.
