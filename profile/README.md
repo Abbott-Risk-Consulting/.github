@@ -10,7 +10,7 @@ We love to talk all things risk assessment, incident response, ethical hacking, 
 Tom, the leader of the cyber team, has over 8 years of experience in risk assessment and consulting.
 
 #### Callum
-Here's a bit about Callum, he can do hackerman stuff.
+Does hackerman stuff. Can do other things. 
 
 #### Ned
 Ned is a software developer turned risk consultant, with a BSc in Computer Science and an MSc in Information Security. They enjoy solving problems through code, and exploring the fascinating world of cyber crime. They relax at the weekends by building LEGO and playing a variety of board games. 
