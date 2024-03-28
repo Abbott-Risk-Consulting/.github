@@ -8,16 +8,6 @@ We love to talk all things risk assessment, incident response, ethical hacking, 
 ## READ THIS BEFORE CONTRIBUTING
 [Insert pull request process here]
 
-### Meet the Cyber Team
-#### Tom
-Tom, the leader of the cyber team, has over 8 years of experience in risk assessment and consulting.
-
-#### Callum
-Does hackerman stuff. Can do other things. 
-
-#### Ned
-Ned is a software developer turned risk consultant, with a BSc in Computer Science and an MSc in Information Security. They enjoy solving problems through code, and exploring the fascinating world of cyber crime. They relax at the weekends by building LEGO and playing a variety of board games. 
-
 <!--
 
 **Here are some ideas to get you started:**
