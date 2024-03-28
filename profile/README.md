@@ -5,6 +5,9 @@ ARC is a risk consulting company within the energy sector. Our cyber team handle
 Our GitHub contains private and public repositories, and provides a place for the cyber team to collaborate on software development projects. While our private repositories are just for internal use, we welcome contributions to issues on our public repositories. 
 We love to talk all things risk assessment, incident response, ethical hacking, and more! Join in the discussion or take a look at the open issues to get involved. 
 
+## READ THIS BEFORE CONTRIBUTING
+[Insert pull request process here]
+
 ### Meet the Cyber Team
 #### Tom
 Tom, the leader of the cyber team, has over 8 years of experience in risk assessment and consulting.
